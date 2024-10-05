@@ -1,0 +1,6 @@
+.wrapper {
+    max-width: 800px; /* Adjust the maximum width as per your preference */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 0 20px; /* Add padding to the sides if needed */
+    /* Add additional styles as needed */
+  }
